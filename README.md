@@ -1,16 +1,13 @@
-## Hi there 👋
+# Dipendra Singh
 
-<!--
-**dpsi9/dpsi9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Rust & Systems Programming Enthusiast**  
+**Solana & Web3 Developer**
 
-Here are some ideas to get you started:
+I enjoy building at the intersection of **blockchain**, **systems programming**, and **distributed systems**.  
+Currently focused on **Rust**, **Solana**, and contributing to **open-source** projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Focus
+- **Languages:** Rust, TypeScript, Go
+- **Web3:** Solana, Anchor, Native Programs
+- **Backend:** Node.js, PostgreSQL, Docker
+- **Frontend:** React, Next.js
