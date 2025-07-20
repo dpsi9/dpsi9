@@ -7,7 +7,7 @@ I enjoy building at the intersection of **blockchain**, **systems programming**,
 Currently focused on **Rust**, **Solana**, and contributing to **open-source** projects.
 
 ### 🛠️ Tech Focus
-- **Languages:** Rust, TypeScript, Go
-- **Web3:** Solana, Anchor, Native Programs
+- **Languages:** Rust, TypeScript, Java
+- **Web3:** Solana, Anchor, Native Programs, Pinoccio
 - **Backend:** Node.js, PostgreSQL, Docker
 - **Frontend:** React, Next.js
