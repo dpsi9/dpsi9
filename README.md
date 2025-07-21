@@ -8,6 +8,6 @@ Currently focused on **Rust**, **Solana**, and contributing to **open-source** p
 
 ### 🛠️ Tech Focus
 - **Languages:** Rust, TypeScript, Java
-- **Web3:** Solana, Anchor, Native Programs, Pinoccio
+- **Web3:** Solana, Anchor, Native Programs, Pinocchio
 - **Backend:** Node.js, PostgreSQL, Docker
 - **Frontend:** React, Next.js
