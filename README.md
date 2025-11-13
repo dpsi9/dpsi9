@@ -1,10 +1,9 @@
 # Dipendra Singh
 
-**Rust & Systems Programming Enthusiast**  
+**Rust & Systems Programming**  
 **Solana & Web3 Developer**
 
-I enjoy building at the intersection of **blockchain**, **systems programming**, and **distributed systems**.  
-Currently focused on **Rust**, **Solana**, and contributing to **open-source** projects.
+I build reliable systems in Rust and explore practical Solana program design. Interested in turning solid engineering into real products.
 
 ### 🛠️ Tech Focus
 - **Languages:** Rust, TypeScript, Java
